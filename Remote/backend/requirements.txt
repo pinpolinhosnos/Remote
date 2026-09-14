@@ -1,0 +1,7 @@
+# Python dependencies for remote control server
+# No external dependencies required for basic functionality
+
+# Optional: For production deployment
+# flask==2.3.3
+# flask-cors==4.0.0
+# websockets==11.0.3
